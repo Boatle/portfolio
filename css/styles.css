@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel:wght@200;400;900&display=swap');
+
+body {
+  padding: 30px;
+  font-family: 'Martel', serif;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #0b0b2e;
+}
+
+a {
+  color: #cb1767;
+  text-decoration: none;
+}
