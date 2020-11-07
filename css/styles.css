@@ -101,9 +101,9 @@ h3 {
   display: flex;
   align-items: center;
   /* justify-content: center; */
-  position: relative;
-  z-index: 1000;
-  height: 30px;
+  /* position: relative; */
+  /* z-index: 1000; */
+  min-height: 30px;
   background-color: #131323;
   padding: 0 15px;
 }
@@ -114,14 +114,12 @@ h3 {
 }
 
 #main-menu {
-  height: 70px;
-  width: 100%;
+  min-height: 70px;
   top: 0;
 }
 
 #footer {
   bottom: 0;
-  width: 100%;
 }
 
 #boat-logo {
