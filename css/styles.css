@@ -42,7 +42,7 @@ h3 {
 }
 
 .quarter-container {
-  height: 81%;
+  height: 100%;
 }
 
 .vertical-divider {
@@ -146,8 +146,8 @@ h3 {
     justify-content: center;
   }
 
-  .la-copyright {
-
+  .quarter-container {
+    height: 76%;
   }
 
 }
