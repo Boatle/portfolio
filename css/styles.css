@@ -42,7 +42,7 @@ h3 {
 }
 
 .quarter-container {
-  height: 100%;
+  height: 81%;
 }
 
 .vertical-divider {
@@ -148,8 +148,18 @@ h3 {
     justify-content: center;
   }
 
-  .quarter-container {
-    height: 81%;
+  .vertical-divider {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .content-quarters {
+    width: 100%;
+    height: 50%;
+  }
+
+  .title-icon {
+    font-size: 38px;
   }
 
 }
