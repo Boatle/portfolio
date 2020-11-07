@@ -115,11 +115,13 @@ h3 {
 
 #main-menu {
   min-height: 70px;
+  height: 12%;
   top: 0;
 }
 
 #footer {
   bottom: 0;
+  height: 7%;
 }
 
 #boat-logo {
